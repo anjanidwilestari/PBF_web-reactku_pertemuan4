@@ -1,0 +1,23 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1841720063,
+      "id": 2,
+      "nama": "Ardian Bhagaskara",
+      "alamat": "Jl. Semanggi Timur No.15",
+      "hp": "085655784711",
+      "angkatan": 2018,
+      "status": "Lulus"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
